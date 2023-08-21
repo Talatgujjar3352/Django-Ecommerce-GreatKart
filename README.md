@@ -1,1 +1,1 @@
-GreatKart is a Fully Functional E-Commerce site which is Develope on tech Django 
+## GreatKart is a Fully Functional E-Commerce site which is Develope on tech Django 
